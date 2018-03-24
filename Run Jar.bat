@@ -1,1 +1,0 @@
-java -jar Link_State_Routing.jar 
